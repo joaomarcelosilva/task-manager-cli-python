@@ -1,4 +1,4 @@
-from manager import TaskManager
+from task_manager.manager import TaskManager
 
 
 def show_menu():

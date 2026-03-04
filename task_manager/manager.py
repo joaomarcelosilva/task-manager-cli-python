@@ -1,5 +1,5 @@
-from storage import load_tasks, save_tasks
-from models import Task
+from task_manager.storage import load_tasks, save_tasks
+from task_manager.models import Task
 
 
 class TaskManager:
