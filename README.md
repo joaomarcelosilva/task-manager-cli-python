@@ -1,5 +1,10 @@
 # Gerenciador de Tarefas CLI (Python)
 
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-green)
+![Tests](https://img.shields.io/badge/tests-unittest-orange)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 Um gerenciador de tarefas simples desenvolvido em Python, executado via linha de comando (CLI).
 O projeto permite criar, listar, editar, concluir e remover tarefas, além de visualizar estatísticas e organizar tarefas por prioridade.
 
